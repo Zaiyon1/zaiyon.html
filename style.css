@@ -1,0 +1,57 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    text-shadow: 0px -1px 5px;
+}
+
+body ol img{
+    width: 200px;
+    
+}
+body ol button{
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+
+body ul h2{
+    width: 200px;
+    color: rd;
+}
+
+body ul img{
+    width: 200px;
+}
+body ul button{
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+body ol img{
+    height: 300px;
+    width: 200px;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: black
+}
+
+body ol h2{
+    text-shadow: 0px -1px 5px;
+}
+body ul h2{
+    text-shadow: 0px -1px 5px;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
